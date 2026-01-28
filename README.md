@@ -8,7 +8,7 @@ It provides structured lessons, self-assessment tools, and a seamless booking fl
 The platform helps learners at every level — from school students to working professionals.
 
 
-#🧩 Features
+# 🧩 Features
 
 These are your original features, now formatted professionally:
 
@@ -48,12 +48,12 @@ Confirmation, alerts, and booking details
 Background email sending (non-blocking & fast)
 
 
-#🛠 Tech Stack
+# 🛠 Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React%20(Inside%20Next.js)-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Nodemailer-009B2D?style=for-the-badge&logo=mail.ru&logoColor=white"/> <img src="https://img.shields.io/badge/Brevo%20SMTP-0066CC?style=for-the-badge"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 
 
 
-#🧱 System Architecture
+# 🧱 System Architecture
 
 SkillUp uses a robust full-stack setup:
 
@@ -99,7 +99,7 @@ Sends confirmation to user + alert to admin
 
 
 
-#👨‍💻 Contribution 
+# 👨‍💻 Contribution 
 
 I contributed as a full-stack developer to SkillUp:
 
@@ -119,6 +119,6 @@ Ensured both guest bookings and logged-in bookings work flawlessly
 
 
 
-##🔗 Live Demo
+## 🔗 Live Demo
 
 👉 https://skillupworld.org
